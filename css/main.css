@@ -1,1 +1,23 @@
-Hello!
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+.main {
+    margin-top: 30px; 
+}
+
+img {
+    padding:20px;
+    width: 25%;
+}
+
+p {
+    font-family: "Roboto"
+}
+
+div.right{
+    padding: 100px;
+    width: 100%;
+    
+}
